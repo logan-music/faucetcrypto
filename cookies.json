@@ -1,12 +1,49 @@
 [
-    {
-        "name": "cf_clearance",
-        "value": "your_cf_clearance_value",
-        "domain": ".faucetcrypto.com"
-    },
-    {
-        "name": "PHPSESSID",
-        "value": "your_phpsessid_value",
-        "domain": ".faucetcrypto.com"
-    }
+  {
+    "name": "_ga",
+    "value": "GA1.1.825476122.1749365755",
+    "domain": ".faucetcrypto.com",
+    "path": "/",
+    "expires": 1783925880.80297,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "cookieconsent",
+    "value": "true",
+    "domain": "faucetcrypto.com",
+    "path": "/",
+    "expires": 1780901776.963993,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "XSRF-TOKEN",
+    "value": "eyJpdiI6IjdKTytHNkNVYTlEOVQ0ZEdDZHhvZ0E9PSIsInZhbHVlIjoiTHNKeCtEQjRaUG9tdURRVjlpaUN0YnVVbU4zQnRQT09zaGFmcmR1dXZNSUpQR1JhNXRRb2tTWWdGTFVNbTRROVo3amNwN3dNTm5rczNFelp4TmZpTHZva1pkVEc3aGFEcHo3TVlLMlprTzA5RkMxRHhFRWpwSExxV0NmOUFYaEMiLCJtYWMiOiJmNzZmMWFjZDFjZGQ5ODk1MTY0ZDY5OThjNzFmYTQxYWI3ODdmZTE2MzM4Y2IyNWViYzlhNzhiMDAzMDljNjMwIiwidGFnIjoiIn0%3D",
+    "domain": "faucetcrypto.com",
+    "path": "/",
+    "expires": 1749387542.292285,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "faucet_crypto_session",
+    "value": "eyJpdiI6IlNOUUlvMW1WbTBwTEVPRFc5VUE4cHc9PSIsInZhbHVlIjoiS0JLQmZqdHdmd3BudXBjb0NHZ1VVaGppT0pVdmpmODE0cjNoV0dIcjlsS1pPQkdZcFBUNlhlYVV1QVBrQi9SUEN2ZFRRMXY4czR2WXhETmcveGlFcFpJT1BsbVNQS29KVm40WG03dTFQNC9Ua0lVM28vV3NDWkZvMUN4YklDL3UiLCJtYWMiOiJjNDM0NWFhZTQwMGE4NDU5YTU4NGZlNTlhNGM1Y2E5NjdkMjViYmQ2NmVhMWQ4ZjAxMzkwMGY4ZjFhMzMxNDNlIiwidGFnIjoiIn0%3D",
+    "domain": "faucetcrypto.com",
+    "path": "/",
+    "expires": 1749387542.293019,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_DTBEYRYLZ7",
+    "value": "GS2.1.s1749365754$o1$g1$t1749365946$j30$l0$h0",
+    "domain": ".faucetcrypto.com",
+    "path": "/",
+    "expires": 1783925946.96647,
+    "httpOnly": false,
+    "secure": false
+  }
 ]
