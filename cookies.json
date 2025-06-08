@@ -1,0 +1,12 @@
+[
+    {
+        "name": "cf_clearance",
+        "value": "your_cf_clearance_value",
+        "domain": ".faucetcrypto.com"
+    },
+    {
+        "name": "PHPSESSID",
+        "value": "your_phpsessid_value",
+        "domain": ".faucetcrypto.com"
+    }
+]
